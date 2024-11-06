@@ -1,0 +1,1 @@
+bot = telebot.TeleBot('7812864176:AAFv4lchVRAr6hzMenz4wFHXIl2T_bRu0Zk')
